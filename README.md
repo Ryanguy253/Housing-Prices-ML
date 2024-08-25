@@ -17,8 +17,8 @@ The dataset used in this project is the California Housing dataset, which includ
 - **population**: Population in block group
 
 ## Project Structure
-- **notebooks/**: Jupyter notebooks containing the exploration, visualization, and model development process.
-- **data/**: Directory containing the dataset used in the project.
+- **Housing.ipynb**: Jupyter notebook containing the exploration, visualization, and model development process.
+- **Housing.tgz**: Dataset used in the project.
 
 ## Features
 The following features have been engineered and added to improve model performance:
